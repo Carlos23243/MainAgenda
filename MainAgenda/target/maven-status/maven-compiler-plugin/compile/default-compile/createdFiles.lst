@@ -1,0 +1,7 @@
+AgendaControlador.class
+Evento.class
+AgendaVista.class
+com\mycompany\mainagenda\MainAgenda.class
+com\mycompany\mainagenda\AgendaVista.class
+com\mycompany\mainagenda\Evento.class
+com\mycompany\mainagenda\AgendaControlador.class
